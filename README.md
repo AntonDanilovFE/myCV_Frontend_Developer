@@ -43,6 +43,9 @@
           target="_blank"
           href="https://antondanilovfe.github.io/FarCry-4-flex-jQuery-/"
           >FarCry-4-flex-jQuery-</a
+        ><br />
+        <a target="_blank" href="https://github.com/AntonDanilovFE/Page_FE_JS"
+          >Page_FE_JS</a
         >
       </p>
     </div>
