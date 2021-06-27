@@ -1,9 +1,9 @@
 # Антон Данилов
- <p align='center'>
-<div align="center" style="margin: 40px 0">
+ <div align="center" style="margin: 40px 0">
       <div>
-        <a target="_blank"
+        <a
           style="margin: 0 10px; text-decoration: none"
+          target="_blank"
           href="https://www.linkedin.com/in/anton-danilov-b81994215/"
         >
           <img
@@ -35,3 +35,4 @@
         >
       </p>
     </div>
+    
