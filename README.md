@@ -9,6 +9,13 @@
       <p>- Усидчивость, умение доводить дело до конца.</p>
       <p>- Креативное мышление, решение нестандартных задач.</p>
     </div>
+    <div>
+      <h3>Мои навыки:</h3>
+      <p>
+        HTML5, CSS, Flexbox, БЭМ, SVG, SASS, Bootstrap, CSS Grid, AJAX,
+        JavaScript/jQuery, Webpack ...
+      </p>
+    </div>
  <div align="center" style="margin: 40px 0">
       <div>
         <a
