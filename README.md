@@ -31,6 +31,21 @@
         документации IT
       </p>
     </div>
+    <div>
+      <h3>Примеры моих работ:</h3>
+      <p>
+        <a
+          target="_blank"
+          href="https://antondanilovfe.github.io/Tourism-html-css/"
+          >Tourism-html-css</a
+        >
+        <a
+          target="_blank"
+          href="https://antondanilovfe.github.io/FarCry-4-flex-jQuery-/"
+          >FarCry-4-flex-jQuery-</a
+        >
+      </p>
+    </div>
  <div align="center" style="margin: 40px 0">
       <div>
         <a
