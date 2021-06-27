@@ -16,6 +16,14 @@
         JavaScript/jQuery, Webpack ...
       </p>
     </div>
+    <div>
+      <h3>Образование:</h3>
+      <p>
+        2021 окончил курсы Beetroot Academy - Front-End Розробка.<br />Где
+        научился на практике работать с макетами figma и photoshop. Познакомился
+        с новым миром front-end developer.
+      </p>
+    </div>
  <div align="center" style="margin: 40px 0">
       <div>
         <a
