@@ -13,7 +13,7 @@
       <h3>Мои навыки:</h3>
       <p>
         HTML5, CSS, Flexbox, БЭМ, SVG, SASS, Bootstrap, CSS Grid, AJAX,
-        JavaScript/jQuery, Webpack ...
+        JavaScript/jQuery
       </p>
     </div>
     <div>
