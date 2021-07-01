@@ -1,13 +1,8 @@
 # Антон Данилов
 ## Frontend-Developer
 <div style="font-size: 18px">
-      <h3>Информация о себе:</h3>
-      <p>31 год. Живу в Украине Полтавская обл. город Кременчуг.</p>
-      <p>Еще в детстве пробовал создавать сайты через конструктор Ucoz.</p>
-      <p>Из прошлых профессий получил умения которые помогут мне:</p>
-      <p>- Умение общаться с клиентами, решение спорных вопросов.</p>
-      <p>- Усидчивость, умение доводить дело до конца.</p>
-      <p>- Креативное мышление, решение нестандартных задач.</p>
+      <p>Ukraine. City Kremenchug</p>
+      <p>I want to tie my life to IT technology. Back in my childhood created websites through the constructor Ucoz. There is a great desire to start a career as a junior Frontend-Developer, and while working learn and improve your skills, and within 5 years to become a team leader</p>
     </div>
     <div>
       <h3>Мои навыки:</h3>
