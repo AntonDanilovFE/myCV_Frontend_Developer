@@ -59,7 +59,7 @@
         </a>
       </div>
       <p style="font-size: 18px">
-        Пишите на адрес:
+        Email:
         <a
           style="text-decoration: none"
           href="mailto:antondanilovfrontend@gmail.com"
@@ -67,7 +67,7 @@
         >
       </p>
       <p style="font-size: 18px">
-        Или звоните:
+        Tel.(Telegram,Viber,WhatsApp): 
         <a style="text-decoration: none" href="tel:+380989968007"
           >+380989968007</a
         >
