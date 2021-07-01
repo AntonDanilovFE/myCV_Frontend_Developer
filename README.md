@@ -15,22 +15,13 @@
       </p>
     </div>
     <div>
-      <h3>Образование:</h3>
+      <h3>Education</h3>
       <p>
-        2021 окончил курсы Beetroot Academy - Front-End Розробка.<br />Где
-        научился на практике работать с макетами figma и photoshop. Познакомился
-        с новым миром front-end developer.
+        2021 completed a course Beetroot Academy Frontend-Developer..<br />Where learned to work with figma and photoshop layouts in practice.
       </p>
     </div>
-    <div>
-      <h3>Знание языков :</h3>
-      <p>
-        Украинский, Русский, Английский — на уровне чтения технической
-        документации IT
-      </p>
-    </div>
-    <div>
-      <h3>Примеры моих работ:</h3>
+     <div>
+      <h3>Examples of my work in Beetroot Academy</h3>
       <p>
         <a
           target="_blank"
@@ -45,6 +36,12 @@
         <a target="_blank" href="https://github.com/AntonDanilovFE/Page_FE_JS"
           >Page_FE_JS</a
         >
+      </p>
+    </div>
+    <div>
+      <h3>Additional information</h3>
+      <p>
+        English Pre-Intermediate
       </p>
     </div>
  <div align="center" style="margin: 40px 0">
