@@ -28,6 +28,9 @@
           href="https://antondanilovfe.github.io/Tourism-html-css/"
           >Tourism-html-css</a
         ><br />
+            <p>
+                  (The layout was made with the help of Bootstrap Grid, iconic font was used(icomoon), scss was used for styling, Adaptation, JS was used for the hamburger menu…)
+      </p>
         <a
           target="_blank"
           href="https://antondanilovfe.github.io/FarCry-4-flex-jQuery-/"
