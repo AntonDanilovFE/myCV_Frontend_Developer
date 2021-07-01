@@ -2,12 +2,16 @@
 ## Frontend-Developer
 <div style="font-size: 18px">
       <p>Ukraine. City Kremenchug</p>
+      <h3>Objective & Summary</h3>
       <p>I want to tie my life to IT technology. Back in my childhood created websites through the constructor Ucoz. There is a great desire to start a career as a junior Frontend-Developer, and while working learn and improve your skills, and within 5 years to become a team leader</p>
     </div>
     <div>
-      <h3>Мои навыки:</h3>
+      <h3>Skills</h3>
       <p>
-        HTML5, CSS, Flexbox, БЭМ, SVG, SASS, Bootstrap
+        HTML5, CSS3, Flexbox, BEM, SVG, SASS, Bootstrap
+      </p>
+      <p>
+        During the course, we briefly touched on: jQuery, AJAX , JavaScript, Webpack, React
       </p>
     </div>
     <div>
