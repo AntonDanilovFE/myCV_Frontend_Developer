@@ -23,6 +23,14 @@
      <div>
       <h3>Examples of my work in Beetroot Academy</h3>
       <p>
+             <a
+          target="_blank"
+          href="https://antondanilovfe.github.io/MSI_Project/"
+          >MSI_Project-html-css</a
+        >
+      <p>
+      (Google Maps API, SCSS, Bootstrap, Font Squirrel, JS, jQuery, SVG…..)
+      </p>
         <a
           target="_blank"
           href="https://antondanilovfe.github.io/Tourism-html-css/"
