@@ -28,7 +28,7 @@ Have a huge desire to keep growing in the industry.
           >MSI_Project-html-css</a
         >
       <p>
-      (HTML5, CCS3, SCSS/SASS, Google Maps API, Bootstrap, Font Squirrel, JavaScript, jQuery, AJAX, SVG
+      (HTML5, CCS3, SCSS/SASS, Google Maps API, Bootstrap, Font Squirrel, JavaScript, jQuery, AJAX, SVG </br>
 Implementation of a simple multi-page interface. Google Maps API integration. 
 This project was implemented as a graduation work for the course of Beetroot Academy.
 )
