@@ -39,7 +39,9 @@ This project was implemented as a graduation work for the course of Beetroot Aca
           >Tourism-html-css</a
         >
       <p>
-      (The layout was made with the help of Bootstrap Grid, iconic font was used(icomoon), scss was used for styling, Adaptation, JS was used for the hamburger menu…)
+      (HTML5, CCS3, SCSS/SASS, Bootstrap Grid, Icomoon, JavaScript </br>
+The layout was made with the help of Bootstrap Grid. Iconic font integration using icomoon. JavaScript for the hamburger menu.
+)
       </p>
         <a
           target="_blank"
@@ -47,13 +49,15 @@ This project was implemented as a graduation work for the course of Beetroot Aca
           >FarCry-4-flex-jQuery-</a
         >
        <p>
-       (Page made on Flexbox, styles SCSS, the switch is made with jQuery)
+       (HTML5, CCS3, SCSS/SASS, Flexbox, JavaScript, jQuery, SVG </br>
+Implementing tabs with jQuery.
+)
       </p>
         <a target="_blank" href="https://github.com/AntonDanilovFE/Page_FE_JS"
           >Page_FE_JS</a
         >
        <p>
-       ( Bootstrap, SCSS,  two sliders are implemented(swiperjs), google map, Connected font with FontsQuirrel…..)
+       (HTML5, CCS3, SCSS/SASS, Bootstrap, JavaScript, swiperjs, Google Maps API, Font Squirrel)
       </p>
       </p>
     </div>
