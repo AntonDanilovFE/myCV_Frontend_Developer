@@ -3,21 +3,20 @@
 <div style="font-size: 18px">
       <p>Ukraine. City Kremenchug</p>
       <h3>Objective & Summary</h3>
-      <p>I want to tie my life to IT technology. Back in my childhood created websites through the constructor Ucoz. There is a great desire to start a career as a junior Frontend-Developer, and while working learn and improve your skills, and within 5 years to become a team leader</p>
+      <p>Starting in January of this year, I began to independently study front-end development. Successfully completed the course “Front-End Development” of Beetroot Academy in July. During the course, we briefly touched on: jQuery, AJAX, JavaScript, Webpack, React, SEO. For the last half a year I implemented 4 pet projects using these technologies.
+Have a huge desire to keep growing in the industry.
+</p>
     </div>
     <div>
       <h3>Skills</h3>
       <p>
-        HTML5, CSS3, Flexbox, BEM, SVG, SASS, Bootstrap
-      </p>
-      <p>
-        During the course, we briefly touched on: jQuery, AJAX , JavaScript, Webpack, React
+          HTML5, CSS3, SCSS, SASS,BEM, Flexbox, Grid, SVG, Bootstrapd, JavaScript, jQuery, AJAX, React, Npm, Webpack, Responsive Web Design, Git, GitHub, Figma   
       </p>
     </div>
     <div>
       <h3>Education</h3>
       <p>
-        2021 completed a course Beetroot Academy Frontend-Developer..<br />Where learned to work with figma and photoshop layouts in practice.
+        BEETROOT ACADEMY Front-End Development | March - July 2021
       </p>
     </div>
      <div>
@@ -29,7 +28,10 @@
           >MSI_Project-html-css</a
         >
       <p>
-      (Google Maps API, SCSS, Bootstrap, Font Squirrel, JS, jQuery, SVG…..)
+      (HTML5, CCS3, SCSS/SASS, Google Maps API, Bootstrap, Font Squirrel, JavaScript, jQuery, AJAX, SVG
+Implementation of a simple multi-page interface. Google Maps API integration. 
+This project was implemented as a graduation work for the course of Beetroot Academy.
+)
       </p>
         <a
           target="_blank"
